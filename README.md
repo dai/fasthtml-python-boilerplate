@@ -1,40 +1,45 @@
-# FastHTML Boilerplate
+# FastHTML ボイラープレート
 
-Deploy your [FastHTML](https://fastht.ml/) project to Vercel with zero configuration.
+[FastHTML](https://fastht.ml/) プロジェクトをゼロコンフィギュレーションでVercelにデプロイします。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/fasthtml&template=fasthtml)
+[![Vercelでデプロイ](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/fasthtml&template=fasthtml)
 
-_Live Example: https://fasthtml-template.vercel.app_
+_ライブ例: https://fasthtml-template.vercel.app_
 
-Visit the [FastHTML documentation](https://docs.fastht.ml/) to learn more.
+詳細は [FastHTML ドキュメント](https://docs.fastht.ml/) をご覧ください。
 
-## Getting Started
+## はじめに
 
-Install the required dependencies:
+必要な依存関係をインストールします:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Running Locally
+## ローカルでの実行
 
-Start the development server on http://0.0.0.0:5001
+http://0.0.0.0:5001 で開発サーバーを起動します
 
 ```bash
 python main.py
 ```
 
-When you make changes to your project, the server will automatically reload.
+プロジェクトに変更を加えると、サーバーは自動的にリロードされます。
 
-## Deploying to Vercel
+## Vercelへのデプロイ
 
-Deploy your project to Vercel with the following command:
+以下のコマンドでプロジェクトをVercelにデプロイします:
 
 ```bash
 npm install -g vercel
 vercel --prod
 ```
 
-Or `git push` to your repostory with our [git integration](https://vercel.com/docs/deployments/git).
+または、[gitインテグレーション](https://vercel.com/docs/deployments/git)を使用してリポジトリに `git push` します。
 
-To view the source code for this template, [visit the example repository](https://github.com/vercel/vercel/tree/main/examples/fasthtml).
+このテンプレートのソースコードを表示するには、[例のリポジトリ](https://github.com/vercel/vercel/tree/main/examples/fasthtml)をご覧ください。
+
+
+```markdown
+GitHub Copilotによる翻訳です。
+```
